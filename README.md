@@ -15,9 +15,9 @@ Full-stack developer from Montevideo, Uruguay, currently working professionally 
 
 ## 🚀 Some of my projects
 
-- **[ats-boost](https://github.com/elkiki99/ats-boost)** — AI-powered CV tailoring tool for job applications
-- **[laraflix](https://github.com/elkiki99/laraflix)** — Netflix-inspired movie portal built with TALL stack + TMDB API
-- **[Jobs](https://github.com/elkiki99/Jobs)** — Job board platform for seekers and recruiters
+- **[ats-boost](https://ats-boost.com)** — AI-powered CV tailoring tool for job applications
+- **[laraflix](https://github.com/brunorossani/laraflix)** — Netflix-inspired movie portal built with TALL stack + TMDB API
+- **[Jobs](https://github.com/brunorossani/Jobs)** — Job board platform for seekers and recruiters
 
 ## 📫 Get in touch
 
